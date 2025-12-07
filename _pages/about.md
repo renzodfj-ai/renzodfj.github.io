@@ -14,7 +14,9 @@ Complemento mis habilidades blandas, como comunicación clara, pensamiento crít
 Destaco por mi compromiso con la excelencia, mi mentalidad de aprendizaje continuo y mi capacidad para construir relaciones de confianza. Me motiva estar en entornos de alta exigencia, donde los desafíos son complejos y el nivel de responsabilidad impulsa una mejora constante. Disfruto colaborar con personas que saben más que yo, porque eso acelera mi aprendizaje, amplía mi perspectiva y me permite crecer tanto técnica como profesionalmente. Busco formar parte de equipos donde se combine rigor analítico, enfoque en impacto y un compromiso genuino por crear soluciones que aporten valor real y sostenible.
 
 **Medios de contacto**
+---
 Correo electrónico: RenzoDFJ@gmail.com
+---
 Teléfono: +51 991 861 010
 
 
