@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+---
 Soy un estudiante de economía con un fuerte enfoque analítico y una motivación constante por resolver problemas complejos mediante el uso de datos, investigación rigurosa y pensamiento estructurado. 
 
 Complemento mis habilidades blandas, como comunicación clara, pensamiento crítico, adaptabilidad y trabajo colaborativo, con un sólido dominio de habilidades técnicas que incluyen análisis de datos en Python, modelamiento y visualización en Excel y Power BI, manejo de bases de datos en SQL, R y Stata. 
