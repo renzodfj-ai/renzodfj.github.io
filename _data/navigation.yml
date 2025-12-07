@@ -27,7 +27,7 @@ main:
     url: /files/Resume.pdf
     
   - title: "Predictor S&P500"
-    url: https://claude.ai/public/artifacts/c1821796-528c-4663-92ab-3a8dfc16c2ab
+    url: /predictor/
     
  # - title: "Guide"
  #   url: /markdown/
