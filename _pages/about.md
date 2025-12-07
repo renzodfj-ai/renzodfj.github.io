@@ -16,6 +16,7 @@ Destaco por mi compromiso con la excelencia, mi mentalidad de aprendizaje contin
 **Medios de contacto**
 ---
 Correo electrónico: RenzoDFJ@gmail.com
+
 Teléfono: +51 991 861 010
 
 
